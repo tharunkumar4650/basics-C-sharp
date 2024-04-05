@@ -1,0 +1,22 @@
+using System;
+
+        public class Program
+        {
+            public static void Main(string[] args)
+            {
+              int a,rev=0,b=0;
+              int n=int.Parse(Console.ReadLine());
+              while(n>0)
+                {
+                  a=n%10;
+                  rev=b*10+a;
+                  n=n/10;
+                }
+                
+                Console.WriteLine(rev);
+            
+             
+            }
+        }
+            
+            

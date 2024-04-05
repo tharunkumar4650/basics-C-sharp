@@ -1,0 +1,15 @@
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\bin\Debug\net7.0\Matrix.exe
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\bin\Debug\net7.0\Matrix.deps.json
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\bin\Debug\net7.0\Matrix.runtimeconfig.json
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\bin\Debug\net7.0\Matrix.dll
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\bin\Debug\net7.0\Matrix.pdb
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\Matrix.csproj.AssemblyReference.cache
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfo.cs
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\Matrix.dll
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\refint\Matrix.dll
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\Matrix.pdb
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\Matrix.genruntimeconfig.cache
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Matrix\obj\Debug\net7.0\ref\Matrix.dll

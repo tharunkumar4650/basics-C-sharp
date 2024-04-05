@@ -1,0 +1,15 @@
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\bin\Debug\net7.0\Duplicate.exe
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\bin\Debug\net7.0\Duplicate.deps.json
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\bin\Debug\net7.0\Duplicate.runtimeconfig.json
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\bin\Debug\net7.0\Duplicate.dll
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\bin\Debug\net7.0\Duplicate.pdb
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\Duplicate.csproj.AssemblyReference.cache
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\Duplicate.AssemblyInfoInputs.cache
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\Duplicate.AssemblyInfo.cs
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\Duplicate.csproj.CoreCompileInputs.cache
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\Duplicate.dll
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\refint\Duplicate.dll
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\Duplicate.pdb
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\Duplicate.genruntimeconfig.cache
+C:\Users\TharunkumarSrinivasa\OneDrive - Syncfusion\Desktop\Assignment\Duplicate\obj\Debug\net7.0\ref\Duplicate.dll
